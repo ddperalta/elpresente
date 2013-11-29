@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse" role="navigation">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 	<div class="navbar-header">
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 			<span class="sr-only">Toggle navigation</span>
@@ -23,3 +23,7 @@
 		</ul><!-- /.nav navbar-nav -->
 	</div><!-- /.navbar-collapse -->
 </nav><!-- /.navbar navbar-default -->
+
+<div class='navbar-fixed-bottom'>
+	<p>PUTO PROYECTO</P>
+</div>
